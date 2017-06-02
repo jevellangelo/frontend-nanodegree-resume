@@ -1,3 +1,40 @@
+/*
+This is empty on purpose! Your code to build the resume will go here.
+ */
+
+// $("#main").append("Jevell Angelo Acebedo")
+
+// var email = "jevell321@me.com";
+
+// var newEmail = email.replace("me", "gmail");
+
+// console.log(email);
+// console.log(newEmail);
+
+// var awesomeThoughts = "My name is Jevell and I am AWESOME";
+
+// var funThoughts = awesomeThoughts.replace("AWESOME", "FUN");
+
+// $("#main").append(funThoughts);
+
+// var name = "Jevell Acebedo";
+
+// var formattedName = HTMLheaderName.replace("%data%", name);
+
+// var role = "Front-End Developer";
+
+// var formattedRole = HTMLheaderRole.replace("%data%", role);
+
+// $("#header").prepend(formattedRole);
+// $("#header").prepend(formattedName);
+
+
+// $("#main").append(skills);
+
+// $("#main").append(skills[0]);
+
+// $("#main").append(skills.length);
+
 var bio = {
     "name" : "Jevell Acebedo",
     "role" : "Front-End Developer",
@@ -77,5 +114,53 @@ var project = {
             "description" : "I was provided with a design mockup as a PDF-file and I replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects I completed throughout the course of the Front-End Web Developer Nanodegree."
             // "images" : ""
         }
+        // {
+        //     "title" :,
+        //     "dates" :,
+        //     "description" :,
+        //     "images" :,
+        // }
     ]
 };
+
+// var work = {
+//     "title" : "IT Specialist",
+//     "employer" : "Bently Enterprises",
+//     "dates" : "2015 to present",
+//     "location" : "San Francisco"
+// };
+
+// var school = {
+//     "name" : "University of California Davis",
+//     "dates" : "2005 to 2010",
+//     "location" : "Davis, CA"
+// };
+
+
+
+// var formattedName = HTMLheaderName.replace("%data%", bio.name);
+// var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
+// var formattedMobile = HTMLmobile.replace("%data%", bio.contacts.mobile);
+// var formattedEmail = HTMLemail.replace("%data%", bio.contacts.email);
+// var formattedTwitter = HTMLtwitter.replace("%data%", bio.contacts.twitter);
+// var formattedGithub = HTMLgithub.replace("%data%", bio.contacts.github);
+
+
+// $("#header").prepend(formattedRole);
+// $("#header").prepend(formattedName);
+// $("#topContacts").append(formattedMobile);
+// $("#topContacts").append(formattedEmail);
+// $("#topContacts").append(formattedTwitter);
+// $("#topContacts").append(formattedGithub);
+// $("#topContacts").append(bio.bioPic);
+
+
+// $("#main").append(work.title);
+// $("#main").append(work.employer);
+// $("#main").append(work.dates);
+// $("#main").append(work.location);
+// $("#main").append(school["name"]);
+// $("#main").append(school["dates"]);
+// $("#main").append(school["location"]);
+
+
